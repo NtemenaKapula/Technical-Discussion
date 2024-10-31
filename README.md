@@ -14,3 +14,6 @@ This is a good example of [my code](https://gist.github.com/NtemenaKapula/b054de
 ### Colab example
 
 This is my [notebook](https://github.com/NtemenaKapula/Technical-Discussion/blob/main/Technical_docs.ipynb)
+
+### Images
+
