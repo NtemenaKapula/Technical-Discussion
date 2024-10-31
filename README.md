@@ -7,3 +7,6 @@ This is a demo repo for sharing ideas around communication
 * One
 * Two
 * Three
+  
+### Gist
+This is a good example of [my code](https://gist.github.com/NtemenaKapula/b054dec1edeb16c5abec1d4e1b889c91)
