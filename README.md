@@ -17,3 +17,4 @@ This is my [notebook](https://github.com/NtemenaKapula/Technical-Discussion/blob
 
 ### Images
 
+<img width="182" alt="Screenshot 2024-10-31 131552" src="https://github.com/user-attachments/assets/aa304b1e-7475-4bc6-8a7d-b6969bc9bdab">
